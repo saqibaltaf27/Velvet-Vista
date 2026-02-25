@@ -1,0 +1,28 @@
+Project-Name: Velvet & Vista Multi-Destination Guest Journey Interface
+
+Overview:
+    To visually guide wedding guests through a complex dual-country itinerary in a clear, elegant, and responsive way optimized for mobile travel usage.
+
+Requirements:
+1. Dual Destination Timeline
+2. Mode Toggle (Logistics mode, Celebration mode)
+3. Live Context Cards (Local time for event location, fetch local weather using openweather API)
+4. Interactive Progress Tracker
+5. Luxury Visual Design
+6. Technical Constraints (React, Mobile-first, environment based APIs, Full documented setup process, well-commented code)
+
+Deliverables:
+1. Codebase: A ZIP file containing the complete, organized source code.
+2. Repository: A public GitHub repository link including a README with setup instructions.
+3. Deployment: A live demo link (hosted on Vercel, Netlify, or GitHub Pages).
+4. Documentation: A brief "Implementation Guide" (Markdown) explaining how to update the itinerary JSON data.
+5. Media: A short screen recording (MP4 or GIF) demonstrating the "Mode Toggle" and responsiveness.
+
+Tech-Stack:
+React template
+vite
+tailwindcss 
+postcss
+autoprefixer
+axios
+date-fns

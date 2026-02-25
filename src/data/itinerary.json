@@ -1,0 +1,67 @@
+    {
+        "destination": [
+            {
+                "id": "portugal",
+                "name": "Coastal Chapel, Portugal",
+                "timezone": "Europe/Lisbon",
+                "themeColor": "rose",
+                "events": [
+                    {
+                        "id": 1,
+                        "title": "Guest Arrival & Check-In",
+                        "type": "logistics",
+                        "datetime": "2026-06-10T14:00:00",
+                        "description": "Hotel Check-in opens."
+                    },
+
+                    {
+                        "id": 2,
+                        "title": "Wedding Ceremony",
+                        "type": "celebration",
+                        "datetime": "2026-06-11T16:00:00",
+                        "description": "Chapel seaside ceremony." 
+                    },
+
+                    {
+                        "id": 3,
+                        "title": "Sunset Cocktail Hour",
+                        "type": "celebration",
+                        "datetime": "2026-06-12T18:00:00",
+                        "description": "Clifftop cocktails." 
+                    }
+                ]
+            },
+
+            {
+                "id": "morocco",
+                "name": "Luxury Villa, Morocoo",
+                "timezone": "Africa/Casablanca",
+                "themeColor": "amber",
+                "events": [
+                    {
+                        "id": 4,
+                        "title": "Private Charter Flight",
+                        "type": "logistics",
+                        "datetime": "2026-06-13T10:00:00",
+                        "description": "Transfer to Morocco."
+                    },
+
+                    {
+                        "id": 5,
+                        "title": "Grand Reception Dinner",
+                        "type": "celebration",
+                        "datetime": "2026-06-13T19:00:00",
+                        "description": "Formal Reception Under the Stars." 
+                    },
+
+                    {
+                        "id": 6,
+                        "title": "Farewell Brunch",
+                        "type": "celebration",
+                        "datetime": "2026-06-14T11:00:00",
+                        "description": "Poolside Brunch." 
+                    }
+                ]
+            }
+        ]
+    }
